@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'lucifer';
+    src: url("../font/lucifer.ttf");
+}
+
+.dark{
+    background-color: black;
+}
+
+.text-navbar a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    color: white !important;
+}
+
+.ativo a:hover{
+    color: red !important;
+}
